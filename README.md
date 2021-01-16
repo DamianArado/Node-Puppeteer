@@ -15,4 +15,4 @@
 - Run `node app.js` and the server will be up and running on [PORT 3000](http://localhost:3000/)
 
 ### ![Home](/public/images/1.jpg)
-### ![Result](/public/images/2.jpg)
+### ![Downloadable PDF](/public/images/2.jpg)
