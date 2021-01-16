@@ -1,2 +1,2 @@
 # Webpage2Pdf
-- Generate a PDF file 📄 of a web page using Puppeteer 💡 , Google’s Node API for headless Chrome and Chromium. 
+- Generate a handy downloadable PDF file 📄 of a webpage using Puppeteer 💡 , Google’s Node API for headless Chrome and Chromium. 
